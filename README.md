@@ -46,7 +46,7 @@ So, how to handle goss-, I mean, Social Information™?
 
 ![Gossiping Commons NA NC NE](imgs/GossipingCommons_NA_NC_NE.png)
 
-Writing or of your (true!) stories you told them during integration parties, writing blog posts changing the protagonist name to their own, and monetizing on adverts would not be cool.
+Writing of your (true!) stories you told them during integration parties, writing blog posts changing the protagonist name to their own, and monetizing on adverts would not be cool.
 
 Also, selling your friend for ₿3.0 is not cool. And well, if you use this license, it is also illegal.
 
@@ -79,15 +79,15 @@ Psst -  we can be quiet about that.
 
 ### More logos!
 
-- [ ] all combinations!
-- [ ] also small ones!
-- [ ] or a magic generator!
+- all combinations!
+- also small ones!
+- or a magic generator!
 
 ### Localizations
 
 Let's translate it into Español, Русский, 官话, العربية, עִבְרִית‎ (OMG I ❤️ UTF-8!), sarcasm, LaTeX, IPA (/aɪ piː ˈeɪ/, not a craft beer, you hipster!), `JavaScript`, black tongue, etc.
 
-If you happen to know language of the Great Old Ones, fork repo, checkout new branch, commit changes, rebase -i it to origin/master and send pull request. Otherwise, [clicking on the pen is the way to go](https://github.com/stared/gossipingcommons).
+If you happen to know the indescribable language of the Great Old Ones, fork repo, checkout new branch, commit changes, rebase -i it to origin/master, push it to remote and send pull request. Otherwise, [clicking on the pen is the way to go](https://github.com/stared/gossipingcommons).
 
 ## One more thing
 
