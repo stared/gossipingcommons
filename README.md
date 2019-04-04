@@ -93,4 +93,4 @@ If you happen to know language of the Great Old Ones, fork repo, checkout new br
 
 Oh, an one more thing: please don't tell about this site anyone. Let's that be our secret! ;)
 
-Especially not Facebook. Or Twitter.
+Especially not [Facebook](https://www.facebook.com/sharer/sharer.php?u=https%3A//gossipingcommons.org). Or [Twitter](https://twitter.com/share?text=Gossiping Commons - "don't share alike" and "no author please" licenses @pmigdal&url=https://gossipingcommons.org&hashtags=GossipingCommons,OpenSource). Or [Hacker News](https://news.ycombinator.com/submitlink?u=https%3A%2F%2Fgossipingcommons.org&t=Gossiping%20Commons%20-%20open%20licenses%20for%20grapevine%20news). Or [LinkedIn](https://www.linkedin.com/shareArticle?mini=true&url=https%3A//gossipingcommons.org&title=Gossiping%20Commons%20-%20%22don't%20share%20alike%22%20and%20%22no%20author%20please%22%20licenses&summary=&source=https%3A//gossipingcommons.org). Or all of them at once!
