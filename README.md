@@ -2,12 +2,6 @@
 
 *Ever wondered if you can share a gossip? Now there is a license framework for that!*
 
-"WORK" IN PROGRESS (feel invited to join, contribute, or distract me (the last one is significantly easier))
-
-It was intended to be for the April Fools' Day (2019), but I didn't take this deadline too seriously.
-Plus, you know, it is hard to compete with all these corporate adverts.
-
-
 ## Example licenses
 
 ### No author please, and don't tell anyone
@@ -19,7 +13,9 @@ It if is a secret, it is a secret! So, don't tell anyone anything. Especially th
 It is a strict restriction and I will honor that!
 I mean, I know can share with Max, because I am are sure they won't share it with anyone!
 
-* [Just Don't Tell Anyone Else](http://thedoghousediaries.com/3023) - The Doghouse Diaries
+![Just Don't Tell Anyone Else - The Doghouse Diaries - CC-BY-NC](external/just_dont_tell_anyone_else_3023_doghousediaries.png)
+
+* Source: [Just Don't Tell Anyone Else](http://thedoghousediaries.com/3023) by The Doghouse Diaries [CC-BY-NC](https://creativecommons.org/licenses/by-nc/4.0/)
 
 ### Don't tell all of that
 
@@ -36,7 +32,9 @@ E.g.:
 Well, if we trace the creative chain, the last version I know... well, I cannot tell previous versions.
 But I guarantee it was enriched in a gradual way, but a lot of people.
 
-* [Jesus na terra 2](https://www.umsabadoqualquer.com/966-jesus-na-terra-2/) - Um Sábado Qualquer
+![Jesus na terra 2 - Um Sábado Qualquer](/Users/pmigdal/my_repos/gossipingcommons/external/jesus_966_umsabadoqualquer.jpg)
+
+* Source: [Jesus na terra 2](https://www.umsabadoqualquer.com/966-jesus-na-terra-2/) by [@sabadoqualquer](https://twitter.com/sabadoqualquer)
 
 ### Don't be Judas, no exaggerations
 
@@ -71,8 +69,13 @@ This project is [CC-BY](https://creativecommons.org/licenses/by/4.0/) [Piotr Mig
 
 It is a derivate work of [Creative Commons buttons and cons](https://creativecommons.org/about/downloads), which are [CC-BY licensed]((https://creativecommons.org/licenses/by/4.0/)).
 
+It was intended to be for the April Fools' Day (2019), but I didn't take this deadline too seriously.
+Plus, you know, it is hard to compete with all these corporate adverts.
+
 
 ## Contribute!
+
+"WORK" IN PROGRESS (feel invited to join, contribute, or distract me (the last one is significantly easier)).
 
 All jokes aside, we should never forget that gossiping is a collaborative process.
 Psst -  we can be quiet about that.
@@ -93,4 +96,4 @@ If you happen to know the indescribable language of the Great Old Ones, fork rep
 
 Oh, an one more thing: please don't tell about this site anyone. Let's that be our secret! ;)
 
-Especially not [Facebook](https://www.facebook.com/sharer/sharer.php?u=https%3A//gossipingcommons.org). Or [Twitter](https://twitter.com/share?text=Gossiping%20Commons%20-%20"don't%20share%20alike"%20and%20"no%20author%20please"%20licenses%20@pmigdal&url=https://gossipingcommons.org&hashtags=GossipingCommons,OpenSource). Or [Hacker News](https://news.ycombinator.com/submitlink?u=https%3A%2F%2Fgossipingcommons.org&t=Gossiping%20Commons%20-%20open%20licenses%20for%20grapevine%20news). Or [LinkedIn](https://www.linkedin.com/shareArticle?mini=true&url=https%3A//gossipingcommons.org&title=Gossiping%20Commons%20-%20%22don't%20share%20alike%22%20and%20%22no%20author%20please%22%20licenses&summary=&source=https%3A//gossipingcommons.org). Or all of them at once!
+Especially not on [Facebook](https://www.facebook.com/sharer/sharer.php?u=https%3A//gossipingcommons.org). Or [Twitter](https://twitter.com/share?text=Gossiping%20Commons%20-%20"don't%20share%20alike"%20and%20"no%20author%20please"%20licenses%20@pmigdal&url=https://gossipingcommons.org&hashtags=GossipingCommons,OpenSource). Or [Hacker News](https://news.ycombinator.com/submitlink?u=https%3A%2F%2Fgossipingcommons.org&t=Gossiping%20Commons%20-%20open%20licenses%20for%20grapevine%20news). Or [LinkedIn](https://www.linkedin.com/shareArticle?mini=true&url=https%3A//gossipingcommons.org&title=Gossiping%20Commons%20-%20%22don't%20share%20alike%22%20and%20%22no%20author%20please%22%20licenses&summary=&source=https%3A//gossipingcommons.org). Or all of them at once!
