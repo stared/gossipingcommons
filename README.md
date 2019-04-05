@@ -70,7 +70,7 @@ This project is [CC-BY](https://creativecommons.org/licenses/by/4.0/) [Piotr Mig
 It is a derivate work of [Creative Commons buttons and cons](https://creativecommons.org/about/downloads), which are [CC-BY licensed]((https://creativecommons.org/licenses/by/4.0/)).
 
 It was intended to be for the April Fools' Day (2019), but I didn't take this deadline too seriously.
-Plus, you know, it is hard to compete with all these corporate adverts.
+Plus, you know, it is hard to compete with all these corporate adverts. Creative Commons logo changes thx to [design_desk](https://www.fiverr.com/design_desk).
 
 
 ## Contribute!
