@@ -32,7 +32,7 @@ E.g.:
 Well, if we trace the creative chain, the last version I know... well, I cannot tell previous versions.
 But I guarantee it was enriched in a gradual way, but a lot of people.
 
-![Jesus na terra 2 - Um Sábado Qualquer](/Users/pmigdal/my_repos/gossipingcommons/external/jesus_966_umsabadoqualquer.jpg)
+![Jesus na terra 2 - Um Sábado Qualquer](external/jesus_966_umsabadoqualquer.jpg)
 
 * Source: [Jesus na terra 2](https://www.umsabadoqualquer.com/966-jesus-na-terra-2/) by [@sabadoqualquer](https://twitter.com/sabadoqualquer)
 
