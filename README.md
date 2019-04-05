@@ -30,7 +30,7 @@ E.g.:
 > A friend of mine solicited her student to act in an adult movie with pterodactyls.
 
 Well, if we trace the creative chain, the last version I know... well, I cannot tell previous versions.
-But I guarantee it was enriched in a gradual way, but a lot of people.
+But I guarantee it was enriched in a gradual way by a lot of people.
 
 ![Jesus na terra 2 - Um Sábado Qualquer](external/jesus_966_umsabadoqualquer.jpg)
 
@@ -52,7 +52,7 @@ Also, selling your friend for ₿3.0 is not cool. And well, if you use this lice
 
 Good press is good press. Bad press is good press. There is no such things a bad publicity. Have you ever hear about bad likes or reshares?
 
-Stunt marketing owes a lot [this piece of ancient wisdom]((https://en.wikipedia.org/wiki/Herostratus).
+Stunt marketing owes a lot [this piece of ancient wisdom](https://en.wikipedia.org/wiki/Herostratus).
 
 ![CC0](https://mirrors.creativecommons.org/presskit/buttons/88x31/png/cc-zero.png)
 
