@@ -67,6 +67,8 @@ Stunt marketing owes a lot [this piece of ancient wisdom](https://en.wikipedia.o
 
 This project is [CC-BY](https://creativecommons.org/licenses/by/4.0/) [Piotr Migdał](https://p.migdal.pl/).
 
+[![Twitter @pmigdal](https://img.shields.io/twitter/follow/pmigdal)](https://twitter.com/pmigdal)
+
 It is a derivate work of [Creative Commons buttons and cons](https://creativecommons.org/about/downloads), which are [CC-BY licensed]((https://creativecommons.org/licenses/by/4.0/)).
 
 It was intended to be for the April Fools' Day (2019), but I didn't take this deadline too seriously.
