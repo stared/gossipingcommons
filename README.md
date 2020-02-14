@@ -2,6 +2,8 @@
 
 *Ever wondered if you can share a gossip? Now there is a licensing framework for that!*
 
+(Don't ever mention it is on [the Hacker News front page right now](https://news.ycombinator.com/item?id=22326169)!)
+
 ## Example licenses
 
 ### No author please, and don't tell anyone
